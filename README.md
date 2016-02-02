@@ -7,7 +7,9 @@ Para descargar el repositorio pueden realizarlo mediante un cliente de GitHub (m
 # Material opcional
 1. En este otro repositorio se puede encontrar más recursos de HTML https://github.com/ccasbre27/Desarrollo-web-LAP
 2. Tutorial de HTML http://www.w3schools.com/html/default.asp
-
+3. Publicar sitio web desde Web Matrix http://sir-rover.com/2015/11/06/publicar-sitio-web-desde-web-matrix-a-microsoft-azure/
+4. Publicar sitio web desde Visual Studio http://sir-rover.com/2015/12/04/publicar-sitio-web-desde-visual-studio-a-microsoft-azure/
+5. FileZilla próximamente
 
 
 
